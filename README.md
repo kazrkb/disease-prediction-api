@@ -29,3 +29,4 @@ curl https://your-app.onrender.com/symptoms
 pip install -r requirements.txt
 python app.py
 ```
+# disease-prediction-api
